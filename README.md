@@ -170,6 +170,7 @@ We provide tutorials for:
 3. **examine the robustness for prompt attacks**, please refer to [examples/prompt_attack.ipynb](examples/prompt_attack.ipynb) to construct the attacks.
 4. **use DyVal for evaluation:** please refer to [examples/dyval.ipynb](examples/dyval.ipynb) to construct DyVal datasets.
 5. **efficient multi-prompt evaluation using PromptEval**: please refer to [examples/efficient_multi_prompt_eval.ipynb](examples/efficient_multi_prompt_eval.ipynb)
+6. **browse adversarial prompts through a simple interface**: run `python examples/visual_interface.py` to start a Streamlit app.
 
 ## Implemented Components
 
